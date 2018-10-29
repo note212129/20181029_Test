@@ -14,7 +14,7 @@ print("Welcome Python領域")
 age = int(input("請輸入您的年齡"))
 if age >=20:#進行條件判斷
       print("您有投票權\n")
-      print("恭喜")
+      print("Congratulations~")
 else:
       print("未滿"+str(age)+"沒有投票權")
 
@@ -29,4 +29,4 @@ print(16,15,sep="&",end='')
 print(99,37)
 
 print("改版")
-print('HaHa')
+print('Oh My God')
