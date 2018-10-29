@@ -29,3 +29,4 @@ print(16,15,sep="&",end='')
 print(99,37)
 
 print("改版")
+print('HaHa')
